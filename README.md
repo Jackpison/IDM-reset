@@ -11,4 +11,6 @@ it is a ".bat" file (you can open it with a text editor to understand it)
 
 you have just to download "subinacl.exe" (https://www.microsoft.com/en-in/download/details.aspx?id=23510) from a safe source, and put it in the same directory of the script because the script run it one time at the begining of the script.
 
+Feel free to commit any changes to this as needed.
+
 Enjoy!!!
